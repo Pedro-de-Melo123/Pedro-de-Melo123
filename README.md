@@ -15,8 +15,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF1A&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=........................................;Olá!👋🏻;Meu+Nome+é+Pedro+de+Melo+😄;🎓+Sou+Estudande+de+Ciência+da+Computação;Bem+Vindo+ao+meu+Perfil+GitHub+💻)](https://git.io/typing-svg)
 
 ---
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-de-melo-carvalho-de-souza-072250282/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/027_pedro.m/)
+
+</div>
 
 🎓 Estudante de **Ciência da Computação - UVV**  
 
