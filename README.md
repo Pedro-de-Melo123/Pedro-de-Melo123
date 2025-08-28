@@ -34,7 +34,7 @@
 ---
 
 ## 🚀 Um pouco sobre mim
-- Curto bastante jogar **xadrez** ♟️ e **basquete** 🏀  
+- Curto jogar **xadrez** ♟️ e **basquete** 🏀  
 - Fã de tecnologia, games e qualquer desafio que me faça pensar 💡  
 - Gosto de aprender no meu ritmo e transformar ideias em código 🔥  
 - Atualmente estou começando a estudar **Solidity** e me aventurar no mundo do **blockchain** 🪙  
